@@ -1,0 +1,1 @@
+# vredis 基于value的客户端redis分片，将key-value键值对按照value做一致性哈希路由到多台redis节点
